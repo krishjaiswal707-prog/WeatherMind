@@ -1,5 +1,7 @@
 # WeatherMind
 
+**Live Demo**: [https://weather-mind-pink.vercel.app](https://weather-mind-pink.vercel.app)
+
 WeatherMind is a premium, live weather dashboard built with React, Vite, and Vanilla CSS. It features dynamic watercolor sky backdrops and interactive weather overlay effects (rain, snow, lightning, fog) that adapt in real-time based on your searched locations, along with custom theme configurations.
 
 ---
